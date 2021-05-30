@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Most commonly used technologies 💻<br>
+🐍 `Python`, `Django`, `Django REST framework (DRF)`, `Beautiful Soup` <br>
+💾 `PostgreSQL`, `SQLite`<br>
+🕰 `Celery`, `Redis`<br>
+🤖 `Telegram Bot API`<br>
+🪙 `Chia`<br>
+
+## [Contact me](https://t.me/shamaevn/)
