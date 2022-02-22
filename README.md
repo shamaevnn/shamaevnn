@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 🤖 `Telegram Bot API`<br>
 🪙 `Chia`<br>
 
-## [Contact me](https://t.me/shamaevn/)
+## [Contact me](https://t.me/shamaevn/) 🚦 [Channel ✈️](https://t.me/shamaevn/) 🚦 [shamaevn.com](https://shamaevn.com/)
+
