@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 -->
 
 ## Most commonly used technologies 💻<br>
-🐍 `Python`, `Django`, `Django REST framework (DRF)`, `Beautiful Soup` <br>
+🐍 `Python`, `FastAPI`, `Asyncio`, `SQLAlchemy`, `Django`, `Django REST framework (DRF)` <br>
 💾 `PostgreSQL`, `SQLite`<br>
 🕰 `Celery`, `Redis`<br>
 🤖 `Telegram Bot API`<br>
-🪙 `Chia`<br>
+🪙 `Web3`, `Chia`<br>
 
-## [Contact me](https://t.me/shamaevn/) 🚦 [Channel ✈️](https://t.me/shamaevnn/) 🚦 [shamaevn.com](https://shamaevn.com/)
-
+## [Contact me](https://t.me/shamaevn/) 🚦 [Channel ✈️](https://t.me/shamaevnn/)
+Have a look at our [open-source template for django & telegram bots](https://github.com/ohld/django-telegram-bot)
